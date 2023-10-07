@@ -1,15 +1,15 @@
-username: 
-password: 
-phone_number:
+username: ghalymbryan@gmail.com
+password: 98987768474400Bg$!
+phone_number: 3856020604
 
 positions:
-- Data Scientist
-- # Another position you want to search for
-- # A third position you want to search for
+- General Ledger Accountant
+- Senior Accountant
+- Accountant
 
 locations:
-- Remote
-- # A second location you want to search in 
+- Orange County, California
+- Salt Lake County, Utah 
 
 # --------- Optional Parameters -------
 # uploads:
@@ -26,3 +26,9 @@ locations:
 
 #blackListTitles:
 #- # Add job titles you want to ignore
+Fund Accountant
+Non-profit Accountant
+Staff Accountant
+Bookkeeper
+Accounts Receivable
+Accounts Payable
